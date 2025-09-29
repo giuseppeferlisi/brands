@@ -1,0 +1,4 @@
+This PR adds the icon for my custom integration "claude_meter_reader" (domain: claude_meter_reader), a water meter reader using an ESP32 camera to capture images and extract values via the Claude AI API.
+
+icon.png: 256x256 pixel, square icon with transparent background, representing a water meter.
+logo.png: 512x512 pixel, square icon with transparent background, representing a water meter.
